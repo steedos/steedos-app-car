@@ -1,0 +1,17 @@
+name: car_value__c
+filterable: false
+group: 常规属性
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 汽车价值（元）
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 2
+searchable: true
+sort_no: 210
+sortable: false
+type: currency

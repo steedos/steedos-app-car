@@ -1,0 +1,25 @@
+name: fuel_type__c
+filterable: false
+group: 发动机参数
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 燃油类型
+multiple: false
+omit: false
+options:
+  - label: 汽油
+    value: gasoline
+  - label: 柴油
+    value: diesel_oil
+  - label: 电动力
+    value: electrodynamic_force
+  - label: 混合动力
+    value: hybrid
+readonly: false
+required: false
+searchable: true
+sort_no: 260
+sortable: false
+type: select

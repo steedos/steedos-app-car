@@ -1,0 +1,17 @@
+name: supplier__c
+filterable: false
+group: 其他详细资料
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 供应商
+multiple: false
+omit: false
+readonly: false
+reference_to: car_supplier__c
+required: false
+searchable: false
+sort_no: 200
+sortable: false
+type: lookup

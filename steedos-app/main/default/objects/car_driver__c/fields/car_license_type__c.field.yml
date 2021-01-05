@@ -1,0 +1,46 @@
+name: car_license_type__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 驾照类型
+multiple: false
+omit: false
+options:
+  - label: A1
+    value: A1
+  - label: A2
+    value: A2
+  - label: A3
+    value: A3
+  - label: B1
+    value: B1
+  - label: B2
+    value: B2
+  - label: C1
+    value: C1
+  - label: C2
+    value: C2
+  - label: C3
+    value: C3
+  - label: C4
+    value: C4
+  - label: D
+    value: D
+  - label: E
+    value: E
+  - label: F
+    value: F
+  - label: M
+    value: M
+  - label: 'N'
+    value: 'N'
+  - label: P
+    value: P
+readonly: false
+required: false
+searchable: false
+sort_no: 120
+sortable: false
+type: select

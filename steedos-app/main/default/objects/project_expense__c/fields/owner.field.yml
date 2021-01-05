@@ -1,0 +1,14 @@
+name: owner
+filterable: false
+hidden: false
+index: true
+is_name: false
+is_wide: false
+label: 所有者(E)
+multiple: false
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 180
+sortable: true

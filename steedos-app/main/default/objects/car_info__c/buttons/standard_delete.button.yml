@@ -1,0 +1,5 @@
+name: standard_delete
+is_enable: true
+label: 删除
+'on': record_more
+visible: true

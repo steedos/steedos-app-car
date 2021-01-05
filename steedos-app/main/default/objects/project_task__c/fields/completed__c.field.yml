@@ -1,0 +1,17 @@
+name: completed__c
+data_type: boolean
+filterable: false
+formula: state__c = 'completed'
+formula_blank_value: blanks
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 已完成
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 180
+sortable: false
+type: formula

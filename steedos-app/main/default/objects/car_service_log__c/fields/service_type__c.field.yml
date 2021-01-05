@@ -1,0 +1,16 @@
+name: service_type__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 服务类型
+multiple: false
+omit: false
+readonly: false
+reference_to: car_service_type__c
+required: false
+searchable: false
+sort_no: 120
+sortable: false
+type: lookup

@@ -1,0 +1,25 @@
+name: all
+columns:
+  - field: name
+    wrap: false
+  - field: license_plate__c
+    wrap: false
+  - field: service_type__c
+    wrap: false
+  - field: purchase__c
+    wrap: false
+  - field: supplier__c
+    wrap: false
+  - field: invoice_reference__c
+    wrap: false
+  - field: total__c
+    wrap: false
+  - field: remarks__c
+    wrap: false
+filter_scope: space
+filters: []
+label: 所有
+scrolling_mode: standard
+shared: true
+show_count: false
+type: grid

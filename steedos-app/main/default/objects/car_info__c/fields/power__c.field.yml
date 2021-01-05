@@ -1,0 +1,17 @@
+name: power__c
+filterable: false
+group: 发动机参数
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 动力（kW）
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 0
+searchable: true
+sort_no: 300
+sortable: false
+type: number

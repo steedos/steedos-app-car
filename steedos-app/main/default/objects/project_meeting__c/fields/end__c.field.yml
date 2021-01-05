@@ -1,0 +1,14 @@
+name: end__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 结束时间
+omit: false
+readonly: false
+required: true
+searchable: true
+sort_no: 130
+sortable: false
+type: datetime

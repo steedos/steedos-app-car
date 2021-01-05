@@ -1,0 +1,16 @@
+name: project__c
+filterable: true
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 项目
+multiple: false
+omit: false
+readonly: false
+reference_to: project__c
+required: false
+searchable: false
+sort_no: 110
+sortable: true
+type: lookup

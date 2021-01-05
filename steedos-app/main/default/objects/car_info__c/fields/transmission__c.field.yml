@@ -1,0 +1,21 @@
+name: transmission__c
+filterable: false
+group: 发动机参数
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 变速器
+multiple: false
+omit: false
+options:
+  - label: 手动挡
+    value: manual
+  - label: 自动挡
+    value: automatic
+readonly: false
+required: false
+searchable: true
+sort_no: 250
+sortable: false
+type: select

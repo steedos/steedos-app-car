@@ -1,0 +1,17 @@
+name: seat_number__c
+filterable: false
+group: 附加属性
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 座位数
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 0
+searchable: true
+sort_no: 220
+sortable: false
+type: number

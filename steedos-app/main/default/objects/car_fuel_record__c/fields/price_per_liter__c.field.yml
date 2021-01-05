@@ -1,0 +1,17 @@
+name: price_per_liter__c
+filterable: false
+group: 加油明细
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 每公升价格（元/升）
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 2
+searchable: false
+sort_no: 140
+sortable: false
+type: currency

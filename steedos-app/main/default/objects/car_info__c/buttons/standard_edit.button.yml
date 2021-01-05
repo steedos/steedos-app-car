@@ -1,0 +1,5 @@
+name: standard_edit
+is_enable: true
+label: 编辑
+'on': record_more
+visible: true

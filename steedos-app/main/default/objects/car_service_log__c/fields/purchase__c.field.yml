@@ -1,0 +1,17 @@
+name: purchase__c
+filterable: false
+group: 其他详细资料
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 采购
+multiple: false
+omit: false
+readonly: false
+reference_to: car_purchase__c
+required: false
+searchable: false
+sort_no: 160
+sortable: false
+type: lookup

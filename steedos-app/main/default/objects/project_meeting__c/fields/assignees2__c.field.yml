@@ -1,0 +1,17 @@
+name: assignees2__c
+filterable: true
+hidden: false
+index: false
+inlineHelpText: 从客户联系人中选择参会者
+is_name: false
+is_wide: false
+label: 参会者（联系人）
+multiple: true
+omit: false
+readonly: false
+reference_to: contacts
+required: false
+searchable: false
+sort_no: 150
+sortable: false
+type: lookup

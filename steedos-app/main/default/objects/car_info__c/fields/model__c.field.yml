@@ -1,0 +1,16 @@
+name: model__c
+filterable: true
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 型号
+multiple: false
+omit: false
+readonly: false
+reference_to: car_model__c
+required: false
+searchable: true
+sort_no: 120
+sortable: false
+type: lookup
