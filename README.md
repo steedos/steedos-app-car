@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="border-top: solid 1px #cccccc">
-  Help you track and manage projects, milestones, tasks, blocked tasks, overdue tasks, time, cost, and has detailed reporting functions. The system is based on Steedos Platform and metadata driven, which can be quickly customized.
+  Realize the unified management of vehicle basic information, and unified control of vehicle operation data, including vehicle mileage, and maintenance, insurance, annual inspection and other cost records, to achieve efficient and reasonable vehicle management system.
 
 </p>
 
@@ -19,15 +19,10 @@
 
 ## Features
 
-- **Project Program**: Centralized management of all projects, a project may or may not belong to a project program, but any project program must contain projects. In the project program, you can directly see the running status of all projects.
-- **Project**: For all the specific projects in the project set, the running status of each project can be visually previewed. If there are many projects, you can use the filter function to quickly search.
+- **Vehicle information management**: manage vehicle information (vehicle basic information, maintenance records, maintenance records, annual inspection records, insurance records, accident records, vehicle violation records, etc.); manage driver information (driver basic information, driver license information, etc.); manage vehicle use records (vehicle application records, vehicle scheduling records, expense reimbursement records, etc.)
+- **Vehicle Approval Management**: customize the vehicle application process and vehicle expense reimbursement process according to the demand; after the process approval is completed, the vehicle application records and expense reimbursement records are automatically generated.
 - **Milestone**: Milestone is usually set in the planning phase of a project and are updated as the project progresses. They are visual reference points, which can decompose the project into manageable and controllable phases to create orderly nodes to help project managers and teams anchor projects.
-- **Project Tasks**: Project task management needs to manage the distribution, real-time response and progress update of multiple project tasks at the same time; record the required resources, estimated and actual work hours, associated documents and related issues of each task; at the same time, it can track the real-time progress and status of tasks, and reflect the change history of tasks.
-- **Time**: The total time from the occurrence to the end of a project can be directly related to a specific project. Compare the actual time consumption with the planned time, and analyze the reasons.
-- **Cost**: Almost every project will generate corresponding expenses, which can be directly related to specific tasks, so as to facilitate the later query of the cost details of each project.
-- **Meeting**: Each project will have a corresponding meeting. After determining the meeting theme, you can directly select to associate it to a project.
-- **Issue**: When you create a new issue, you can set the priority of the problem because multiple problems may occur in the same period of time.
-- **Log**: Each project in progress or after the end, can quickly create a log, in order to effectively control each project.
+- **Query and Statistics**: Vehicle Administrators and managers can have different permissions to query vehicle information in different ranges, for example, they can query the expenses of vehicles with a given license number in a specific period of time; according to the demand, they can generate statistical reports, including expense statistics, repair statistics, maintenance statistics, etc.
 
 ## Requirements
 
