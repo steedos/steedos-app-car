@@ -49,7 +49,7 @@
 ## 项目目录
 
 ```sh
-project-management-app
+steedos-app-car
 ├── steedos-app/main/default
 │   ├── applications
 │   │   └── project.app.yml
