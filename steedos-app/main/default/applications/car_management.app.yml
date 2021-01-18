@@ -1,0 +1,35 @@
+name: 车辆管理
+code: car_management
+description: 通过基本信息、燃油记录、维修记录管理车队模块
+icon_slds: work_order
+is_creator: true
+is_new_window: false
+is_use_ie: false
+is_use_iframe: false
+mobile: true
+mobile_objects:
+  - car_info__c
+  - car_driver__c
+  - car_approval__c
+  - car_fuel_record__c
+  - car_service_log__c
+  - car_insurance__c
+  - car_inspection__c
+  - car_violation__c
+  - car_analysis__c
+oauth2_enabled: false
+oauth2_logout_enabled: false
+objects:
+  - car_info__c
+  - car_driver__c
+  - car_approval__c
+  - car_fuel_record__c
+  - car_service_log__c
+  - car_insurance__c
+  - car_inspection__c
+  - car_violation__c
+  - car_analysis__c
+saml_enabled: false
+saml_logout_enabled: false
+sort: 9101
+visible: true
